@@ -1,2 +1,6 @@
 # solid-sniffle
-test repo
+Readme
+
+Who likes to party?
+
+This guy!
